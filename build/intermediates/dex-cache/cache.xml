@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-21.0.3_110a3edb187de58b59de3c465191c08ce04238c6.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/Downloads/Lab7_submission/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bed41e15cc7707517add58d0937771ce806e40d7">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/backend-android-endpoints_712ce68a3546a8d8f72f31e3f38b1dec7db4f90e.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-6.5.87_eb2795f43c0411d68107f9cda6c76d7ad5a00f6d.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/com.soundcloud.android-android-crop-1.0.1_ab1884bed37511bf5d3fbe755f99a3f3b8037fd3.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/google-http-client-1.19.0_f16319f3e631a238edd527f14eed177707edc7cc.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_47fcc383ef8bc75aaca657600fc15ba3f06786c7.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_b827eb8e14c80759b7ad779daeca1b05f11d3272.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_6c7c5cf1ae0333b44fa7695f739c16819ea7fc86.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_dc3671407882a22e351942026f36a12cdcf5085f.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_13d8f8d9f1e676e8623230082d03734d948e1c90.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0_a371588de10de46566c21ca1569d091d2b62f648.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.19.0_0adbd9a223238bf66cc83c5b1abe563c881af7c3.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/google-api-client-1.19.0_7d1ce126a3051ab6b8639dd06685feadf8ef07df.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.19.0_51b6709728752cd60a9d10eaedd452954f9b09e9.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_d42315ec4a3d10d651b3e68687a477db3d643e17.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.19.0_7328ed73cd39fdfb9f71c933b78bc00846d3d1d4.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_6e296a2536233250d2a1bbe911f0d7ec50455b7f.jar" />
+    </item>
+    <item
+        jar="/Users/makunkun/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/Users/makunkun/Downloads/Lab7_submission/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.19.0_f70277512bf06d9b3cd39d356ccce886906c54f3.jar" />
+    </item>
+
+</items>
